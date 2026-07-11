@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi, I'm Emmy 👋
 
-<!--
-**obiekwe-emmanuel/obiekwe-emmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analyst with strong data analysis skills**, obsessed with growing businesses through clear insight and smart decisions.
 
-Here are some ideas to get you started:
+I help businesses make sense of their data, uncover what's really driving performance, and turn that into decisions that move the needle. My approach blends business analysis thinking with hands-on technical execution, so insights don't just sit in a report, they actually get used.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Business Analysis Skills
+- Requirements gathering
+- Critical thinking & problem-solving
+- Stakeholder management
+- Process improvement
+- Communication & presenting insights to non-technical audiences
+
+### 🛠️ Technical Tools
+- **Excel** (Advanced — Pivot Tables, Power Query, VBA, Dashboards)
+- **SQL** (Learning/Building proficiency)
+- **Power BI** (Learning/Building proficiency)
+
+---
+
+### 📂 Featured Projects
+
+- **[RetailPulse Nigeria Analysis](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-analysis)** — End-to-end retail analytics project for a simulated Nigerian omni-channel retailer. Covers revenue, profitability, operations, and customer performance across 3 years, with 4 interactive dashboards and a full written report.
+
+*More projects coming soon.*
+
+---
+
+### 🌱 Currently Learning
+SQL → Power BI → Python, building toward becoming a well-rounded analyst who can move fluidly between business strategy and technical execution.
+
+---
+
+### 📫 Let's Connect
+Open to opportunities and conversations around business analysis, data-driven decision making, and helping businesses grow.
