@@ -25,6 +25,7 @@ I help businesses make sense of their data, uncover what's really driving perfor
 - **[RetailPulse Nigeria Analysis](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-analysis)** — End-to-end retail analytics project for a simulated Nigerian omni-channel retailer. Covers revenue, profitability, operations, and customer performance across 3 years, with 4 interactive dashboards and a full written report.
 - **[Kay-Superstore Dashboard](https://github.com/obiekwe-emmanuel/kay-superstore-dashboard)** — End-to-end Excel dashboard project for a global superstore business. Two interactive dashboards with VBA navigation macros, dynamic delta KPI indicators, and slicer-connected pivot tables.
 - **[RetailPulse Nigeria Business Report](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-business-report)** — A comprehensive business report on RetailPulse Nigeria's 3-year Sales & Operations performance (2022-2024) covering 15 business questions, key findings, and strategic recommendations.
+- **[Vantex-HR Workforce Dashboard](https://github.com/obiekwe-emmanuel/vantex-hr-workforce-dashboard)** — A 2-dashboard interactive Excel HR analytics report for Vantex covering workforce overview and performance and compensation analysis across 985 employees.
 
 
 *More projects coming soon.*
