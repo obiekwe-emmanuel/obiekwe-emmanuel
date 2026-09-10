@@ -8,15 +8,21 @@ I help businesses make sense of their data, uncover what's really driving perfor
 
 ### 🧠 Business Analysis Skills
 - Requirements gathering
+- Data Analysis
+- Root Cause Analysis
+- SWOT Analysis
 - Critical thinking & problem-solving
 - Stakeholder management
 - Process improvement
+- Market and Competitor Research
 - Communication & presenting insights to non-technical audiences
 
 ### 🛠️ Technical Tools
 - **Excel** (Advanced — Pivot Tables, Power Query, VBA, Dashboards)
-- **SQL** (Learning/Building proficiency)
-- **Power BI** (Learning/Building proficiency)
+- **Power point** (Advanced — Mainly for pitch decks (Executive Reporting))
+- **SQL** (Intermediate — Extracting, Aggregating, and Cleaning Data)
+- **Power BI** (Intermediate — Data Modeling, Transformation, and Visualization)
+- **Python** (Learning/Building proficiency)
 
 ---
 
@@ -31,10 +37,6 @@ I help businesses make sense of their data, uncover what's really driving perfor
 
 *More projects coming soon.*
 
----
-
-### 🌱 Currently Learning
-SQL → Power BI → Python, building toward becoming a well-rounded analyst who can move fluidly between business strategy and technical execution.
 
 ---
 
