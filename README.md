@@ -33,8 +33,8 @@ I help businesses make sense of their data, uncover what's really driving perfor
 - **[RetailPulse Nigeria Business Report](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-business-report)** — A comprehensive business report on RetailPulse Nigeria's 3-year Sales & Operations performance (2022-2024) covering 15 business questions, key findings, and strategic recommendations.
 - **[Vantex-HR Workforce Dashboard](https://github.com/obiekwe-emmanuel/vantex-hr-workforce-dashboard)** — A 2-dashboard interactive Excel HR analytics report for Vantex covering workforce overview and performance and compensation analysis across 985 employees.
 - **[Poultry Farm Record Keeping Tracker (Excel + VBA)](https://github.com/obiekwe-emmanuel/poultry-farm-excel-tracker)** — Excel + VBA record-keeping system for a poultry farm, with an automated entry form, live profit/loss calculation, and a summary dashboard.
-- **[InsightsCircle Team Alpha: Global Superstore Analysis](  
-
+- **[InsightsCircle Team Alpha: Global Superstore Analysis](https://github.com/obiekwe-emmanuel/insightsCircle-team-alpha-project-01)** — A collaborative **Global Superstore data analysis project** completed by InsightsCircle Team Alpha, which i served as the project owner/manager. Analyzed sales, profitability, products, markets, customers, and operations. Built interactive **Excel dashboards** to communicate key business insights and trends.
+  
 
 *More projects coming soon.*
 
