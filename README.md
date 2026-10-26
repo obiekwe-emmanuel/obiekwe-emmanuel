@@ -29,6 +29,11 @@ I help businesses make sense of their data, uncover what's really driving perfor
 ### 📂 Featured Projects
 
 - **[Abuja Housing Prices Analysis](https://github.com/obiekwe-emmanuel/Abuja-Housing-prices-Analysis)** — An Excel-based real estate analytics project analyzing 481 rental and sale listings across 16 Abuja areas, featuring four interactive dashboards for price analysis, property types, bedroom categories, and listing distribution.
+  ![Abuja Housing Prices Analysis Landing Page](./AH%20Landing%20Page.png)
+  ![Rental Dashboard 1](./AH%20Rent%20Dashboard%201.png)
+  ![Rental Dashboard 2](./AH%20Rent%20Dashboard%202.png)
+  ![Sale Dashboard 1](./AH%20Sale%20Dashboard%201.png)
+  ![Sale Dashboard 2](./AH%20Sale%20Dashboard%202.png) 
 - **[RetailPulse Nigeria Analysis](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-analysis)** — End-to-end retail analytics project for a simulated Nigerian omni-channel retailer. Covers revenue, profitability, operations, and customer performance across 3 years, with 4 interactive dashboards and a full written report.
 - **[Kay-Superstore Dashboard](https://github.com/obiekwe-emmanuel/kay-superstore-dashboard)** — End-to-end Excel dashboard project for a global superstore business. Two interactive dashboards with VBA navigation macros, dynamic delta KPI indicators, and slicer-connected pivot tables.
 - **[RetailPulse Nigeria Business Report](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-business-report)** — A comprehensive business report on RetailPulse Nigeria's 3-year Sales & Operations performance (2022-2024) covering 15 business questions, key findings, and strategic recommendations.
