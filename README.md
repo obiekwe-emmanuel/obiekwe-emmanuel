@@ -36,6 +36,7 @@ I help businesses make sense of their data, uncover what's really driving perfor
 - **[Poultry Farm Record Keeping Tracker (Excel + VBA)](https://github.com/obiekwe-emmanuel/poultry-farm-excel-tracker)** — Excel + VBA record-keeping system for a poultry farm, with an automated entry form, live profit/loss calculation, and a summary dashboard.
 - **[InsightsCircle Team Alpha: Global Superstore Analysis](https://github.com/obiekwe-emmanuel/insightsCircle-team-alpha-project-01)** — A collaborative **Global Superstore data analysis project** completed by InsightsCircle Team Alpha, which i served as the project owner/manager. Analyzed sales, profitability, products, markets, customers, and operations. Built interactive **Excel dashboards** to communicate key business insights and trends.
 - **[Retail SME Financial Health Dashboard](https://github.com/obiekwe-emmanuel/Retail-SME-Financial-Health-Dashboard)** — An end-to-end Power BI dashboard analyzing the financial health of a simulated retail SME across 36 months, covering revenue, profitability, expense breakdown, and balance sheet integrity through a 2-page interactive report with DAX measures and a star schema data model.  
+- **[Chutel Gadgets Inventory System](https://github.com/obiekwe-emmanuel/Chutel-Gadgets-Inventory-System)** — A full perpetual inventory and sales management system, built entirely in Excel using VBA. No external database, no add-ins, just a single `.xlsm` workbook that behaves like a lightweight ERP.
 
 *More projects coming soon.*
 
