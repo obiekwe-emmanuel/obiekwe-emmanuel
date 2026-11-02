@@ -28,6 +28,11 @@ I help businesses make sense of their data, uncover what's really driving perfor
 
 ### 📂 Featured Projects
 
+- **[TechNova Gadgets: Discount Effectiveness Analysis](https://github.com/obiekwe-emmanuel/TechNova-Gadgets-Discount-Effectiveness-Analysis)** — Are the discounts offered by TechNova Gadgets helping the business generate profitable sales?
+
+Discounts are commonly used to attract customers, increase sales, and remain competitive. However, while they may increase sales activity, they can also reduce profit margins and overall profitability.
+
+This project analyses TechNova Gadgets' sales data to evaluate the relationship between discount levels, revenue, profit, and profit margins.
 - **[Abuja Housing Prices Analysis](https://github.com/obiekwe-emmanuel/Abuja-Housing-prices-Analysis)** — An Excel-based real estate analytics project analyzing 481 rental and sale listings across 16 Abuja areas, featuring four interactive dashboards for price analysis, property types, bedroom categories, and listing distribution.
 - **[RetailPulse Nigeria Analysis](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-analysis)** — End-to-end retail analytics project for a simulated Nigerian omni-channel retailer. Covers revenue, profitability, operations, and customer performance across 3 years, with 4 interactive dashboards and a full written report.
 - **[Kay-Superstore Dashboard](https://github.com/obiekwe-emmanuel/kay-superstore-dashboard)** — End-to-end Excel dashboard project for a global superstore business. Two interactive dashboards with VBA navigation macros, dynamic delta KPI indicators, and slicer-connected pivot tables.
