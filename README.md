@@ -34,6 +34,7 @@ I help businesses make sense of their data, uncover what's really driving perfor
  An interactive Excel dashboard that analyzes two years of sales, profit, cost, and quantity data for a retail electronics and accessories business. It answers specific questions about when, where, and what sells, and whether higher sales translate into higher profit.
 
 
+
 - **[TechNova Gadgets: Discount Effectiveness Analysis](https://github.com/obiekwe-emmanuel/TechNova-Gadgets-Discount-Effectiveness-Analysis)**
 
   <img width="1846" height="941" alt="TechNova Dashboard" src="https://github.com/user-attachments/assets/e16a8bcd-991d-40f2-ad5b-a69caa45f387" />
@@ -42,10 +43,12 @@ Discounts are commonly used to attract customers, increase sales, and remain com
 This project analyses TechNova Gadgets' sales data to evaluate the relationship between discount levels, revenue, profit, and profit margins.
 
 
+
 - **[Abuja Housing Prices Analysis](https://github.com/obiekwe-emmanuel/Abuja-Housing-prices-Analysis)**
 
   <img width="1920" height="977" alt="AH Rent Dashboard 1" src="https://github.com/user-attachments/assets/03375863-3d5a-4a84-ab8b-728394713f25" />
  An Excel-based real estate analytics project analyzing 481 rental and sale listings across 16 Abuja areas, featuring four interactive dashboards for price analysis, property types, bedroom categories, and listing distribution.
+
 
 
 - **[InsightsCircle Team Alpha: Global Superstore Analysis](https://github.com/obiekwe-emmanuel/insightsCircle-team-alpha-project-01)**
@@ -53,18 +56,25 @@ This project analyses TechNova Gadgets' sales data to evaluate the relationship 
   <img width="1920" height="981" alt="Screenshot 3" src="https://github.com/user-attachments/assets/38c898b9-e44d-46d1-8b32-a1c4c254e3ae" />
  A collaborative **Global Superstore data analysis project** completed by InsightsCircle Team Alpha, which i served as the project owner/manager. Analyzed sales, profitability, products, markets, customers, and operations. Built interactive **Excel dashboards** to communicate key business insights and trends.
 
+
     
 - **[RetailPulse Nigeria Analysis](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-analysis)** — End-to-end retail analytics project for a simulated Nigerian omni-channel retailer. Covers revenue, profitability, operations, and customer performance across 3 years, with 4 interactive dashboards and a full written report.
+
   
 - **[Kay-Superstore Dashboard](https://github.com/obiekwe-emmanuel/kay-superstore-dashboard)** — End-to-end Excel dashboard project for a global superstore business. Two interactive dashboards with VBA navigation macros, dynamic delta KPI indicators, and slicer-connected pivot tables.
+
   
 - **[RetailPulse Nigeria Business Report](https://github.com/obiekwe-emmanuel/retailpulse-nigeria-business-report)** — A comprehensive business report on RetailPulse Nigeria's 3-year Sales & Operations performance (2022-2024) covering 15 business questions, key findings, and strategic recommendations.
+
   
 - **[Vantex-HR Workforce Dashboard](https://github.com/obiekwe-emmanuel/vantex-hr-workforce-dashboard)** — A 2-dashboard interactive Excel HR analytics report for Vantex covering workforce overview and performance and compensation analysis across 985 employees.
+
   
 - **[Poultry Farm Record Keeping Tracker (Excel + VBA)](https://github.com/obiekwe-emmanuel/poultry-farm-excel-tracker)** — Excel + VBA record-keeping system for a poultry farm, with an automated entry form, live profit/loss calculation, and a summary dashboard.
+
   
 - **[Retail SME Financial Health Dashboard](https://github.com/obiekwe-emmanuel/Retail-SME-Financial-Health-Dashboard)** — An end-to-end Power BI dashboard analyzing the financial health of a simulated retail SME across 36 months, covering revenue, profitability, expense breakdown, and balance sheet integrity through a 2-page interactive report with DAX measures and a star schema data model.
+
    
 - **[Chutel Gadgets Inventory System](https://github.com/obiekwe-emmanuel/Chutel-Gadgets-Inventory-System)** — A full perpetual inventory and sales management system, built entirely in Excel using VBA. No external database, no add-ins, just a single `.xlsm` workbook that behaves like a lightweight ERP.
 
