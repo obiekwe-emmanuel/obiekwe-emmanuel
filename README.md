@@ -28,6 +28,8 @@ I help businesses make sense of their data, uncover what's really driving perfor
 
 ### 📂 Featured Projects
 
+- **[K-J Stores Sales and Profitability Analysis Dashboard](https://github.com/obiekwe-emmanuel/K-J-Stores-Sales-and-Profitability-Analysis-Dashboard)** — An interactive Excel dashboard that analyzes two years of sales, profit, cost, and quantity data for a retail electronics and accessories business. It answers specific questions about when, where, and what sells, and whether higher sales translate into higher profit.
+
 - **[TechNova Gadgets: Discount Effectiveness Analysis](https://github.com/obiekwe-emmanuel/TechNova-Gadgets-Discount-Effectiveness-Analysis)** — Are the discounts offered by TechNova Gadgets helping the business generate profitable sales?
 Discounts are commonly used to attract customers, increase sales, and remain competitive. However, while they may increase sales activity, they can also reduce profit margins and overall profitability.
 This project analyses TechNova Gadgets' sales data to evaluate the relationship between discount levels, revenue, profit, and profit margins.
