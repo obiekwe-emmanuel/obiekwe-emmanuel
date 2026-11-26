@@ -30,7 +30,7 @@ I help businesses make sense of their data, uncover what's really driving perfor
 
 - **[K-J Stores Sales and Profitability Analysis Dashboard](https://github.com/obiekwe-emmanuel/K-J-Stores-Sales-and-Profitability-Analysis-Dashboard)**
 
-   <img width="1796" height="896" alt="K-J Stores Time Series Analysis" src="https://github.com/user-attachments/assets/bef0ff94-a4c1-4f33-b202-3f6312d9905f" />
+   <img width="1881" height="923" alt="K-J Stores Time Series Analysis" src="https://github.com/user-attachments/assets/6dadc979-66da-42e0-a115-2cb16a566bed" />
  An interactive Excel dashboard that analyzes two years of sales, profit, cost, and quantity data for a retail electronics and accessories business. It answers specific questions about when, where, and what sells, and whether higher sales translate into higher profit.
 
 
